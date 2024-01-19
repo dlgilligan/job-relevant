@@ -1,0 +1,18 @@
+
+[global]
+bs=128k
+iodepth=32
+numjobs=1
+rw=write
+rwmixread=0
+ioengine=libaio
+group_reporting=1
+loops=2
+size=100%
+ramp_time=60
+direct=1
+nice=-5
+
+# Device Target
+[Workload sda]
+filename=/dev/sda

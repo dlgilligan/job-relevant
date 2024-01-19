@@ -1,0 +1,20 @@
+
+[global]
+bs=4k
+iodepth=64
+numjobs=32
+rw=randwrite
+rwmixread=0
+ioengine=libaio
+group_reporting=1
+time_based=1
+runtime=10800
+ramp_time=60
+direct=1
+cpus_allowed_policy=shared
+numa_cpu_nodes=1
+numa_mem_policy=bind:1
+nice=-5
+
+# Device Target
+filename=/dev/sda
