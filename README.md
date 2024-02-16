@@ -7,6 +7,6 @@ autoTune.sh - Script used to tune TCP/IP and NIC settings for network performanc
 auto-storage-testing - Incomplete script for testing various storage stack configurations and RAID adapters using FIO 
 
 cybersecurity-cryptography
-  - AES.py - Object Oriented program that implements AES-256 encryption on text and ppm files. ECB and CTR modes. 
+  - AES.py - Object Oriented program that implements AES-256 encryption on text and ppm files. ECB and CTR modes. The code has redundancies as a result of being created over the span of two assignments.
   - DES.py - Object Oriented program that implements DES encryption on text and ppm files 
   - cryptBreak.py - Brute force decryption algorithm. More for understanding brute force than practical applications 
