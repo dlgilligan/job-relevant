@@ -1,6 +1,3 @@
-/* The code is subject to Purdue University copyright policies.
- * DO NOT SHARE, DISTRIBUTE, OR POST ONLINE
- */
 
 #include <stdio.h>
 #include <stdlib.h>
