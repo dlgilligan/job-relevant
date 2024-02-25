@@ -9,4 +9,4 @@ auto-storage-testing - Incomplete script for testing various storage stack confi
 cybersecurity-cryptography
   - AES.py - Object Oriented program that implements AES-256 encryption on text and ppm files. ECB and CTR modes. The code has redundancies as a result of being created over the span of two assignments.
   - DES.py - Object Oriented program that implements DES encryption on text and ppm files 
-  - cryptBreak.py - Brute force decryption algorithm. More for understanding brute force than practical applications 
+  - rsa.py - Object Oriented program that generates RSA key pairs and performs encryption/decryption using these keys
