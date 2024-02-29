@@ -10,3 +10,4 @@ cybersecurity-cryptography
   - AES.py - Object Oriented program that implements AES-256 encryption on text and ppm files. ECB and CTR modes. The code has redundancies as a result of being created over the span of two assignments.
   - DES.py - Object Oriented program that implements DES encryption on text and ppm files 
   - rsa.py - Object Oriented program that generates RSA key pairs and performs encryption/decryption using these keys
+  - SHA512.py - Object Oriented program that creates a hash from various input formats using the SHA-512 algorithm
